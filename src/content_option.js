@@ -19,7 +19,7 @@ const introdata = {
   animated: {
     first: "Apasionado por la programación",
     second: "Diseño sitios web creativos",
-    third: "Desarrolo aplicaciones móviles",
+    third: "Desarrollo aplicaciones móviles",
   },
   description: "Full Stack Developer, actualmente trabajando desde Argentina",
   your_img_url: ProfilePic,
